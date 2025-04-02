@@ -25,7 +25,9 @@
 				".env.example": "env",
 				".env.local": "env",
 				".env.prod": "env",
-				".env.test": "env"
+				".env.test": "env",
+				"SECURITY": "lock",
+				"SECURITY.md": "lock"
 			},
 			"file_suffixes": {
 				"as": "actionscript",
