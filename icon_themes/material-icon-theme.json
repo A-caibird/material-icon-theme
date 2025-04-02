@@ -32,7 +32,8 @@
 				"tailwind.config.js": "tailwindcss",
 				"tsconfig.json": "tsconfig",
 				"turbo.json": "turborepo",
-				"uv.lock": "uv"
+				"uv.lock": "uv",
+				"vite.config.js": "vite"
 			},
 			"file_suffixes": {
 				"as": "actionscript",
@@ -115,6 +116,7 @@
 				"vcs": { "path": "./icons/git.svg" },
 				"video": { "path": "./icons/video.svg" },
 				"vim": { "path": "./icons/vim.svg" },
+				"vite": { "path": "./icons/vite.svg" },
 				"vue": { "path": "./icons/vue.svg" },
 				"zig": { "path": "./icons/zig.svg" }
 			}
