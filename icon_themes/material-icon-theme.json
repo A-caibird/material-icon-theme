@@ -33,6 +33,7 @@
 				"go.work.sum": "go-mod",
 				"LICENSE": "certificate",
 				"manifest.in": "python-misc",
+				"nginx.conf": "nginx",
 				".python-version": "python-misc",
 				"pipfile": "python-misc",
 				"pylintrc": "python-misc",
@@ -57,6 +58,7 @@
 				"dockerignore": "docker",
 				"env": "env",
 				"md": "markdown",
+				"nginx": "nginx",
 				"svelte": "svelte",
 				"vim": "vim"
 			},
@@ -106,6 +108,7 @@
 				"log": { "path": "./icons/log.svg" },
 				"lua": { "path": "./icons/lua.svg" },
 				"markdown": { "path": "./icons/markdown.svg" },
+				"nginx": { "path": "./icons/nginx.svg" },
 				"nim": { "path": "./icons/nim.svg" },
 				"nix": { "path": "./icons/nix.svg" },
 				"ocaml": { "path": "./icons/ocaml.svg" },
