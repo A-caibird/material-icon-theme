@@ -15,6 +15,7 @@
 				"biome.json": "biome",
 				"biome.jsonc": "biome",
 				"bun.lock": "bun",
+				".bun-version": "bun",
 				".env.dev.local": "env",
 				".env.example": "env",
 				".env.local": "env",
