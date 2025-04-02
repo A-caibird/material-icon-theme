@@ -1,7 +1,7 @@
-id = "material-icon-theme"
+id = "acaibird-material-icon-theme"
 name = "Material Icon Theme"
 version = "0.1.2"
 schema_version = 1
-authors = ["Zed Industries <support@zed.dev>"]
+authors = ["Acaibird"]
 description = "Material Design icons."
-repository = "https://github.com/zed-extensions/material-icon-theme"
+repository = "https://github.com/A-caibird/material-icon-theme#"

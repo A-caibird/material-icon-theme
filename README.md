@@ -1,4 +1,4 @@
-# Material Icon Theme
+# Material Icon Theme by Acaibird
 
 Material Design icons for [Zed](https://zed.dev/).
 
