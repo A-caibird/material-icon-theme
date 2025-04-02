@@ -1,10 +1,10 @@
 {
 	"$schema": "https://zed.dev/schema/icon_themes/v0.2.0.json",
-	"name": "Material Icon Theme",
+	"name": "VSCode Material Icon Theme",
 	"author": "Acaibird",
 	"themes": [
 		{
-			"name": "Acaibird Material Icon Theme",
+			"name": "VSCode Material Icon Theme",
 			"appearance": "dark",
 			"directory_icons": {
 				"collapsed": "./icons/folder.svg",
