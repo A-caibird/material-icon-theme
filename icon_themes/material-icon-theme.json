@@ -27,7 +27,8 @@
 				".env.prod": "env",
 				".env.test": "env",
 				"SECURITY": "lock",
-				"SECURITY.md": "lock"
+				"SECURITY.md": "lock",
+				"tailwind.config.js": "tailwindcss"
 			},
 			"file_suffixes": {
 				"as": "actionscript",
@@ -96,6 +97,7 @@
 				"storage": { "path": "./icons/database.svg" },
 				"swift": { "path": "./icons/swift.svg" },
 				"svelte": { "path": "./icons/svelte.svg" },
+				"tailwindcss": { "path": "./icons/tailwindcss.svg" },
 				"tcl": { "path": "./icons/tcl.svg" },
 				"template": { "path": "./icons/templ.svg" },
 				"terminal": { "path": "./icons/console.svg" },
