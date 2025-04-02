@@ -26,11 +26,13 @@
 				".env.local": "env",
 				".env.prod": "env",
 				".env.test": "env",
+				".python-version": "uv",
 				"SECURITY": "lock",
 				"SECURITY.md": "lock",
 				"tailwind.config.js": "tailwindcss",
 				"tsconfig.json": "tsconfig",
-				"turbo.json": "turborepo"
+				"turbo.json": "turborepo",
+				"uv.lock": "uv"
 			},
 			"file_suffixes": {
 				"as": "actionscript",
@@ -109,6 +111,7 @@
 				"tsconfig": { "path": "./icons/tsconfig.svg" },
 				"turborepo": { "path": "./icons/turborepo_light.svg" },
 				"typescript": { "path": "./icons/typescript.svg" },
+				"uv": { "path": "./icons/uv.svg" },
 				"vcs": { "path": "./icons/git.svg" },
 				"video": { "path": "./icons/video.svg" },
 				"vim": { "path": "./icons/vim.svg" },
