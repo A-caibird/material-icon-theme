@@ -42,6 +42,7 @@
 				"Dockerfile": "docker",
 				"dockerignore": "docker",
 				"env": "env",
+				"md": "markdown",
 				"svelte": "svelte",
 				"vim": "vim"
 			},
@@ -88,6 +89,7 @@
 				"lock": { "path": "./icons/lock.svg" },
 				"log": { "path": "./icons/log.svg" },
 				"lua": { "path": "./icons/lua.svg" },
+				"markdown": { "path": "./icons/markdown.svg" },
 				"nim": { "path": "./icons/nim.svg" },
 				"nix": { "path": "./icons/nix.svg" },
 				"ocaml": { "path": "./icons/ocaml.svg" },
