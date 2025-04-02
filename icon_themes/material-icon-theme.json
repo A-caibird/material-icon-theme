@@ -29,6 +29,7 @@
 				"SECURITY": "lock",
 				"SECURITY.md": "lock",
 				"tailwind.config.js": "tailwindcss",
+				"tsconfig.json": "tsconfig",
 				"turbo.json": "turborepo"
 			},
 			"file_suffixes": {
@@ -105,6 +106,7 @@
 				"terminal": { "path": "./icons/console.svg" },
 				"terraform": { "path": "./icons/terraform.svg" },
 				"toml": { "path": "./icons/toml.svg" },
+				"tsconfig": { "path": "./icons/tsconfig.svg" },
 				"turborepo": { "path": "./icons/turborepo_light.svg" },
 				"typescript": { "path": "./icons/typescript.svg" },
 				"vcs": { "path": "./icons/git.svg" },
