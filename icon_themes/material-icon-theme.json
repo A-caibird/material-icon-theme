@@ -28,7 +28,8 @@
 				".env.test": "env",
 				"SECURITY": "lock",
 				"SECURITY.md": "lock",
-				"tailwind.config.js": "tailwindcss"
+				"tailwind.config.js": "tailwindcss",
+				"turbo.json": "turborepo"
 			},
 			"file_suffixes": {
 				"as": "actionscript",
@@ -103,6 +104,7 @@
 				"terminal": { "path": "./icons/console.svg" },
 				"terraform": { "path": "./icons/terraform.svg" },
 				"toml": { "path": "./icons/toml.svg" },
+				"turborepo": { "path": "./icons/turborepo_light.svg" },
 				"typescript": { "path": "./icons/typescript.svg" },
 				"vcs": { "path": "./icons/git.svg" },
 				"video": { "path": "./icons/video.svg" },
